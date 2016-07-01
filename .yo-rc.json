@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "resuty",
+    "style": "scss",
+    "postcss": true
+  }
+}
